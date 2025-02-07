@@ -30,7 +30,7 @@
         "hoa/exception"  : "dev-master",
         "hoa/iterator"   : "dev-master",
         "hoa/protocol"   : "dev-master",
-        "hoa/zformat"    : "~1.0"
+        "hoa/zformat"    : "dev-master"
     },
     "require-dev": {
         "hoa/test": "~2.0"
