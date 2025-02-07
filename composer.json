@@ -27,7 +27,7 @@
         "php"            : ">=7.1",
         "hoa/compiler"   : "dev-master",
         "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0",
+        "hoa/exception"  : "dev-master",
         "hoa/iterator"   : "dev-master",
         "hoa/protocol"   : "dev-master",
         "hoa/zformat"    : "~1.0"
